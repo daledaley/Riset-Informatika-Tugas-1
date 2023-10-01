@@ -1,5 +1,5 @@
 # Riset-Informatika-Tugas-1
-Nama : Muhammad Daffa Fitriansyah
+Nama : Muhammad Daffa Fitriansyah<br>
 NPM  : 20081010095
 Riset Informatika C
 
