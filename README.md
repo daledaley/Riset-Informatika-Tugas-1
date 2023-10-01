@@ -2,6 +2,7 @@
 Nama : Muhammad Daffa Fitriansyah
 NPM  : 20081010095
 Riset Informatika C
+
 TUGAS 1: Mencari Topik Penelitian
 Tentukan 1-3 alternatif topik penelitian yang anda minati, untuk setiap topik:
 -  Indentifikasi persoalan praktis yang menurut anda perlu diselesaikan melalui penelitian
