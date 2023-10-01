@@ -4,10 +4,15 @@
     <th>Nama</th>
     <td>Muhammad Daffa Fitriansyah</td>
   </tr>
+  <tr>
+    <th>NPM</th>
+    <td>20081010095</td>
+  </tr>
+  <tr>
+    <th>Kelas</th>
+    <td>Riset Informatika C</td>
+  </tr>
 </table>
-Nama : Muhammad Daffa Fitriansyah <br>
-NPM  : 20081010095 <br>
-Riset Informatika C <br><br>
 TUGAS 1: Mencari Topik Penelitian
 Tentukan 1-3 alternatif topik penelitian yang anda minati, untuk setiap topik:
 -  Indentifikasi persoalan praktis yang menurut anda perlu diselesaikan melalui penelitian
