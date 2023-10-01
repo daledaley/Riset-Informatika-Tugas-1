@@ -12,7 +12,8 @@
     <th>Kelas</th>
     <td>Riset Informatika C</td>
   </tr>
-</table>
+</table><br><br>
+
 TUGAS 1: Mencari Topik Penelitian
 Tentukan 1-3 alternatif topik penelitian yang anda minati, untuk setiap topik:
 -  Indentifikasi persoalan praktis yang menurut anda perlu diselesaikan melalui penelitian
