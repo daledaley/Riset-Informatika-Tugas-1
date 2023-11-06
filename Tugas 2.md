@@ -1,2 +1,0 @@
-#Daftar Jurnal Artikel
-
