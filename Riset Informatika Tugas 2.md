@@ -12,7 +12,7 @@ Masih banyak rumah kost yang pemasaran dan pemesanannya masih dilakukan dengan p
 Ada beberapa tujuan penelitian yang telah disusun sebagai berikut : <br>
 1.  Mengidentifikasi kebutuhan user sebagai calon penyewa dan penyewa kamar kost.<br>
 2.  Membuat dan mengembangkan sistem informasi rumah kost yang mempermudah manajemen rumah kost.<br>
-<b>Metodologi Penelitian</b>
+<b>Metodologi Penelitian</b><br>
 1.  Analisis Kebutuhan Pengguna<br>
 Melakukan survei dan wawancara terhadap user sebagai calon dan penyewa kost serta pihak manajemen kost. Hasil dari survei dan wawancara akan dikumpulkan dan dianalisis untuk menentukan apa saja yang dibutuhkan oleh user saat melakukan kunjungan ke rumah kost.
 
