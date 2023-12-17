@@ -15,18 +15,13 @@
 </table><br><br>
 
 # Penjelasan Ringkas 
-Clustering cuaca adalah suatu pendekatan analisis data yang digunakan untuk mengelompokkan hari-hari dengan pola cuaca serupa berdasarkan variabel-variabel meteorologis tertentu. Dalam konteks ini, data cuaca seperti suhu udara, kelembaban, kecepatan angin, dan presipitasi diambil sebagai fitur untuk membentuk kelompok-kelompok yang memiliki karakteristik cuaca yang mirip. Melalui algoritma clustering seperti K-Means, hierarki, atau DBSCAN, hari-hari dengan kondisi cuaca serupa akan dikelompokkan bersama dalam suatu cluster. Analisis clustering cuaca membantu untuk mengidentifikasi pola musiman, mencari tren panjang, atau bahkan memahami variasi regional dalam perilaku cuaca. Hasil dari clustering cuaca dapat memberikan wawasan yang berharga untuk perencanaan sumber daya, manajemen risiko, dan pemahaman mendalam tentang dinamika cuaca di suatu wilayah.
+Prediksi harga smartphone dengan menggunakan algoritma K-Nearest Neighbors (KNN) melibatkan langkah-langkah seperti pengumpulan dataset smartphone, normalisasi fitur-fitur, pemilihan fitur yang relevan, penentuan nilai K (jumlah tetangga terdekat), perhitungan jarak antara data training dan data testing, identifikasi tetangga terdekat, dan prediksi harga dengan menghitung rata-rata atau bobot dari harga tetangga terdekat. Evaluasi model dilakukan menggunakan confussion metrik. Pemilihan fitur yang tepat, normalisasi data, dan penyesuaian parameter sangat penting untuk meningkatkan akurasi prediksi.
 # Metode yang digunakan
-Metode K-Means Clustering dalam analisis cuaca melibatkan pengelompokan hari-hari dengan pola cuaca serupa berdasarkan variabel cuaca tertentu, seperti suhu, kelembaban, dan lain-lain. Tahapannya melibatkan pemilihan dan normalisasi data cuaca, penentuan jumlah cluster yang diinginkan, dan iterasi untuk menghitung jarak antara data dan pusat kluster, menempatkan setiap data ke kluster yang sesuai, dan memperbarui pusat kluster. Dengan demikian, metode ini membantu mengidentifikasi kelompok cuaca yang memiliki karakteristik bersama, memberikan wawasan tentang struktur internal data cuaca, dan mendukung pemahaman pola cuaca serupa untuk keperluan analisis dan perencanaan.
+Metode K-Nearest Neighbors (KNN) adalah suatu algoritma dalam machine learning yang digunakan untuk klasifikasi atau regresi berdasarkan prinsip bahwa data dengan fitur serupa cenderung berada dekat satu sama lain di dalam ruang berdimensi tinggi. Dalam konteks klasifikasi, KNN menentukan kategori suatu data uji dengan melihat mayoritas label dari K tetangga terdekatnya dalam ruang fitur. Dalam regresi, algoritma ini memprediksi nilai numerik dengan mengambil rata-rata atau bobot dari nilai tetangga terdekat. Nilai K, jumlah tetangga yang dipertimbangkan, dan metrik jarak yang digunakan untuk mengukur kedekatan antar data, seperti Euclidean distance, adalah parameter penting yang memengaruhi kinerja algoritma KNN. KNN memiliki keunggulan sederhana dan dapat beradaptasi dengan data kompleks, tetapi kelemahannya termasuk sensitivitas terhadap outliers dan kebutuhan akan pengolahan data yang baik sebelumnya.
 # Referensi
 Berikut merupakan beberapa jurnal referensi :
-1. https://ejurnal.stmik-budidarma.ac.id/index.php/mib/article/download/4810/3024
-2. https://jurnal.pelitabangsa.ac.id/index.php/sigma/article/download/491/302
-
+1. https://ejurnalunsam.id/index.php/jmas/article/view/7074/4273
+2. https://dl.acm.org/doi/pdf/10.1145/3459665
 # Hasil
-<h2>Dry Days</h2>
-<img src="https://github.com/daledaley/Riset-Informatika-Tugas-1/blob/main/Images/Dry%20Days.png">
-<h2>Warm Days</h2>
-<img src="https://github.com/daledaley/Riset-Informatika-Tugas-1/blob/main/Images/Warm%20Days.png">
-<h2>Cool Days</h2>
-<img src="https://github.com/daledaley/Riset-Informatika-Tugas-1/blob/main/Images/Cool%20Days.png">
+<h2>Confussion matriks</h2>
+<img src="https://github.com/daledaley/Riset-Informatika-Tugas-1/blob/main/Image/Confussion%20Matriks.png">
