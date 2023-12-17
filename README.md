@@ -24,3 +24,9 @@ Berikut merupakan beberapa jurnal referensi :
 2. https://jurnal.pelitabangsa.ac.id/index.php/sigma/article/download/491/302
 
 # Hasil
+<h2>Dry Days Plot</h2>
+<img src="https://github.com/daledaley/Riset-Informatika-Tugas-1/blob/main/Images/Dry%20Days.png.png">
+<h2>Warm Days Plot</h2>
+<img src="https://github.com/daledaley/Riset-Informatika-Tugas-1/blob/main/Images/Cool%20Days.png">
+<h2>Cool Days Plot</h2>
+<img src="https://github.com/daledaley/Riset-Informatika-Tugas-1/blob/main/Images/Warm%20Days.png">
