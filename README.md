@@ -14,14 +14,13 @@
   </tr>
 </table><br><br>
 
-List Github :
-- Penjelasan Ringkas (Judul, dll)
-- Metode yg digunakan
-- Referensi
-- Dataset
-- Coding
-- Analisis (Metrik pengujian)
-- Gambar-gambar pendukung
-- PDF yg bisa ditampilkan
-- Video (mengatasi error, dll)
-- Draft paper publikasi (open/privat)
+# Penjelasan Ringkas 
+Clustering cuaca adalah suatu pendekatan analisis data yang digunakan untuk mengelompokkan hari-hari dengan pola cuaca serupa berdasarkan variabel-variabel meteorologis tertentu. Dalam konteks ini, data cuaca seperti suhu udara, kelembaban, kecepatan angin, dan presipitasi diambil sebagai fitur untuk membentuk kelompok-kelompok yang memiliki karakteristik cuaca yang mirip. Melalui algoritma clustering seperti K-Means, hierarki, atau DBSCAN, hari-hari dengan kondisi cuaca serupa akan dikelompokkan bersama dalam suatu cluster. Analisis clustering cuaca membantu untuk mengidentifikasi pola musiman, mencari tren panjang, atau bahkan memahami variasi regional dalam perilaku cuaca. Hasil dari clustering cuaca dapat memberikan wawasan yang berharga untuk perencanaan sumber daya, manajemen risiko, dan pemahaman mendalam tentang dinamika cuaca di suatu wilayah.
+# Metode yang digunakan
+Metode K-Means Clustering dalam analisis cuaca melibatkan pengelompokan hari-hari dengan pola cuaca serupa berdasarkan variabel cuaca tertentu, seperti suhu, kelembaban, dan lain-lain. Tahapannya melibatkan pemilihan dan normalisasi data cuaca, penentuan jumlah cluster yang diinginkan, dan iterasi untuk menghitung jarak antara data dan pusat kluster, menempatkan setiap data ke kluster yang sesuai, dan memperbarui pusat kluster. Dengan demikian, metode ini membantu mengidentifikasi kelompok cuaca yang memiliki karakteristik bersama, memberikan wawasan tentang struktur internal data cuaca, dan mendukung pemahaman pola cuaca serupa untuk keperluan analisis dan perencanaan.
+# Referensi
+Berikut merupakan beberapa jurnal referensi :
+1. https://ejurnal.stmik-budidarma.ac.id/index.php/mib/article/download/4810/3024
+2. https://jurnal.pelitabangsa.ac.id/index.php/sigma/article/download/491/302
+
+# Hasil
