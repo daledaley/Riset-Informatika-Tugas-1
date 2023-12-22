@@ -20,7 +20,7 @@ Prediksi harga smartphone dengan menggunakan algoritma K-Nearest Neighbors (KNN)
 Metode K-Nearest Neighbors (KNN) adalah suatu algoritma dalam machine learning yang digunakan untuk klasifikasi atau regresi berdasarkan prinsip bahwa data dengan fitur serupa cenderung berada dekat satu sama lain di dalam ruang berdimensi tinggi. Dalam konteks klasifikasi, KNN menentukan kategori suatu data uji dengan melihat mayoritas label dari K tetangga terdekatnya dalam ruang fitur. Dalam regresi, algoritma ini memprediksi nilai numerik dengan mengambil rata-rata atau bobot dari nilai tetangga terdekat. Nilai K, jumlah tetangga yang dipertimbangkan, dan metrik jarak yang digunakan untuk mengukur kedekatan antar data, seperti Euclidean distance, adalah parameter penting yang memengaruhi kinerja algoritma KNN. KNN memiliki keunggulan sederhana dan dapat beradaptasi dengan data kompleks, tetapi kelemahannya termasuk sensitivitas terhadap outliers dan kebutuhan akan pengolahan data yang baik sebelumnya.
 # Referensi
 Berikut merupakan beberapa jurnal referensi :
-1. https://ejurnalunsam.id/index.php/jmas/article/view/7074/4273](https://www.jsisfotek.org/index.php/JSisfotek/article/view/114/81)
+1. https://www.jsisfotek.org/index.php/JSisfotek/article/view/114/81
 2. https://dl.acm.org/doi/pdf/10.1145/3459665
 3. https://journal.maranatha.edu/index.php/jutisi/article/view/1581/1246
 # Hasil
